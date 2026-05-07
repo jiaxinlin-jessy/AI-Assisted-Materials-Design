@@ -25,7 +25,7 @@ All labs share a single conda environment. To reproduce:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/AI-Assisted-Materials-Design.git
+git clone https://github.com/jiaxinlin-jessy/AI-Assisted-Materials-Design.git
 cd AI-Assisted-Materials-Design
 
 # 2. Create and activate the environment
