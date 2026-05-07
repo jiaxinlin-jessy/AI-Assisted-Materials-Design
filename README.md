@@ -1,7 +1,7 @@
 # AI-Assisted Materials Design — Course Labs
 
 > **Course:** AI-Assisted Materials Design (AI辅助材料设计)  
-> **Institution:** School of Materials Science and Engineering, Sun Yat-sen University (SYSU)  
+> **Institution:** School of Materials, Sun Yat-sen University (SYSU)  
 > **Instructor:** Prof. Xiangguo Li  
 > **Author:** Jiaxin Lin (林嘉馨) — **Top of class, 98/100**
 
